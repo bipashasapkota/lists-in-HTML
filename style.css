@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    color: #edb706f7;
+    text-align: center;
+
+}
+
+#Second-title h4 {
+    color: #edb706f7;
+    text-align: end;
+    display: block;
+    margin-bottom: 2px;
+}
+
+
+
+#Main-blocks {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.services img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+
+.services {
+    width: 30%;
+    padding: 20px;
+    text-align: center;
+}
+
+.explore {
+    color: #edb706f7;
+    text-align: end;
+    margin-top: 20px;
+
+}
